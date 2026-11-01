@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Hot Hatch Handbook
 ---
 ## The index page
 

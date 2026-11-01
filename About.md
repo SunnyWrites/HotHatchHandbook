@@ -1,0 +1,1 @@
+I am creating a knowledge base for a subgroup of cars known as hot hatches. This is a project for my CMPA course. 
