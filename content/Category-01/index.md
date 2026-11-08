@@ -1,6 +1,6 @@
 ---
-title: Category 01
+title: Price
 ---
-## Price
+
 
 This page will compare the price of each hothatch. 
