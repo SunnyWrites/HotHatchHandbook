@@ -1,9 +1,13 @@
 ---
 title: Hot Hatch Handbook
 ---
-## The index page
+## Main Categories
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+**- [[category-01/index|Price]]**
+**- [[category-02/index|Performance]]**
+**- [[category-03/index|Drivetrain]]**
+**- [[category-04/index|Technology]]**
+**- [[category-05/index|Cargo-Space]]**
 
 ## Editing pages
 

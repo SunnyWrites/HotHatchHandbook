@@ -1,7 +1,7 @@
 ---
 title: Category 02
 ---
-## The Category 02 category index page
+## Performance
 
 ### What is this page?
 

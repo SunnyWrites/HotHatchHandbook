@@ -1,7 +1,7 @@
 ---
 title: Category 01
 ---
-## The Category 01 category index page
+## Price
 
 ### What is this page?
 
