@@ -1,7 +1,6 @@
 ---
-title: Category 04
+title: Technology
 ---
 
-## Technology
 
 This page will compare technology and extra features of each hothatch. 

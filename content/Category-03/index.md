@@ -1,8 +1,6 @@
 ---
-title: Category 03
+title: Drivetrain
 ---
 
-
-## Drivetrain 
 
 This page will compare drivetrain and engine specs. 
