@@ -3,8 +3,8 @@
 
 The Civic Type R is another hot hatch the remains in production. It comes in at the second highest in price on our list. 
 
->New models average between **$48,000 - $50,000**
->Older models range anywhere between **$30,000 - $47,000**
+>New models average between $48,000 - $50,000
+>Older models range anywhere between $30,000 - $47,000
 
 This price range includes:
 - 315-hp 2.0-liter turbocharged inline 4-cylinder engine

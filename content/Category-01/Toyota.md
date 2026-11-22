@@ -3,8 +3,8 @@
 
 In the middle of the pack, and the one I feel you get the most bang for your buck, is the Toyota GR Corolla. The GRC is unique as it was a limited production car with 1,500 units sold in the US in 2023. 
 
-> New 2024 Circuit Edition models start around **$46,235** 
-> All other models range between **$36,000 and $44,500**
+> New 2024 Circuit Edition models start around $46,235 
+> All other models range between $36,000 and $44,500
 
 This price range includes 
 - 1.6L turbocharged 3-cylinder and 

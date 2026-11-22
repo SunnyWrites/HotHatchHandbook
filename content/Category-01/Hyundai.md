@@ -3,7 +3,7 @@
 
 Coming in at lowest price in our hot hatch list is the Hyundai Veloster N. This one is also no longer in production and sold units between 2019 to 2022. 
 
-> On average the price ranges from **$13,800 to $25,000**
+> On average the price ranges from $13,800 to $25,000
 
 This price includes: 
 - 2.0-liter turbocharged inline-4 engine producing up to 275 horsepower and 260 lb-ft of torque

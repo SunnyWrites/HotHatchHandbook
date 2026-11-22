@@ -3,8 +3,8 @@
 
 The VW Golf R comes in as our priciest option at an average of $50,000. 
 
-> The Golf R is still in production with a new 2027 ranging from **$49,465 to $58,905** MSRP depending on trim level.
-> Models from 2022 - 2024 can range from **$44,090–$46,465** original MSRP
+> The Golf R is still in production with a new 2027 ranging from $49,465 to $58,905 MSRP depending on trim level.
+> Models from 2022 - 2024 can range from $44,090–$46,465 original MSRP
 
 This price includes: 
 - 328-hp 2.0-liter turbocharged engine

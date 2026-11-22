@@ -4,7 +4,7 @@
 
 No longer in production, The Focus RS comes in on the lower end of the price scale. This hot hatch was in production between 2016–2018 in the U.S. and has become a rare, collectors item in the hatch world. Like the GR Corolla, the 2028 model was a limited run production of only 1,000 units. 
 
-> Used models prices generally average around **$26,000 to $27,750** with some retail brand tipping the scale just above **$31,000** 
+> Used models prices generally average around $26,000 to $27,750 with some retail brand tipping the scale just above $31,000 
 
 This price includes: 
 - 2.3L DOHC 16-valve turbocharged inline-4 with direct injection
